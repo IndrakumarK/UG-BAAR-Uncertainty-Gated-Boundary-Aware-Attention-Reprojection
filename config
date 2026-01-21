@@ -1,0 +1,20 @@
+# Model
+backbone: 'swin_tiny_patch4_window7_224'
+num_classes: 5
+embed_dim: 96
+mc_samples: 8
+tau: 0.5
+epsilon: 1e-6
+
+# Training
+batch_size: 8
+epochs: 100
+lr: 1e-4
+weight_decay: 1e-5
+dropout_rate: 0.2
+
+# Data
+input_size: [224, 224]
+num_channels: 4
+data_dir: './datasets'
+num_folds: 5

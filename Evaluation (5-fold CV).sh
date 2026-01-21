@@ -1,0 +1,1 @@
+python evaluate.py --checkpoint ./checkpoints/best.pth --config config.yaml

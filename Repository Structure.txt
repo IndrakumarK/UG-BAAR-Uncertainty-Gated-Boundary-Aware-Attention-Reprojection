@@ -1,0 +1,22 @@
+﻿UG-BAAR/
+│── train.py
+│── evaluate.py
+│── config.yaml
+│── requirements.txt
+│
+├── models/
+│   ├── __init__.py
+│   └── ug_baar.py
+│
+├── utils/
+│   ├── __init__.py
+│   ├── losses.py
+│   ├── metrics.py
+│   ├── baar_ops.py
+│   └── seed.py
+│
+├── datasets/
+│   ├── __init__.py
+│   └── dataset.py
+│
+└── checkpoints/
