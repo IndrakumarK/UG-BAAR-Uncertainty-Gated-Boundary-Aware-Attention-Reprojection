@@ -45,6 +45,13 @@ UG-BAAR/
 ├── requirements.txt
 └── checkpoints/
 ```
+## 📁 Datasets
+## SARTAJdataset Br35H
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+## Masoud Nickparvar
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+## Indk214
+https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification
 
 ---
 
@@ -143,4 +150,5 @@ If you use this code in your research, please cite the corresponding paper:
 * This repository is intended for **research and academic use**.
 * Dataset files are not included and must be obtained separately.
 * The code is modular and can be extended to other medical image segmentation tasks.
+
 
