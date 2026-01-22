@@ -1,0 +1,8 @@
+datasets/
+└── SARTAJdataset_Br35H/
+    └── subject_001/
+        ├── t1.npy      # (224,224)
+        ├── t1ce.npy
+        ├── t2.npy
+        ├── flair.npy
+        └── seg.npy     # integer labels (0,1,2,...)
