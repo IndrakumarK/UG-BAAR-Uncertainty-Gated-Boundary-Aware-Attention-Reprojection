@@ -148,7 +148,7 @@ If you use this code in your research, please cite the corresponding paper:
 ## 📌 Notes
 
 * This repository is intended for **research and academic use**.
-* Dataset files are not included and must be obtained separately.
 * The code is modular and can be extended to other medical image segmentation tasks.
+
 
 
