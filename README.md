@@ -140,8 +140,8 @@ If you use this code in your research, please cite the corresponding paper:
 ```
 @article{UGBAAR2026,
   title={Uncertainty-Gated Boundary Alignment Reprojection for Robust Brain Tumor Segmentation},
-  author={Indrakumar K, Ravikumar M},
-  journal={Signal, Image and Video Processing (Springer)},
+  author={},
+  journal={},
   year={2026}
 }
 ```
@@ -152,6 +152,7 @@ If you use this code in your research, please cite the corresponding paper:
 
 * This repository is intended for **research and academic use**.
 * The code is modular and can be extended to other medical image segmentation tasks.
+
 
 
 
